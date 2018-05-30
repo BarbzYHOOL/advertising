@@ -1,0 +1,48 @@
+[B]Description:[/B]
+
+This module rewards players when they reach specific levels. It has the option to reward gold, two items, and a buff or any combination. It also announces to the world when a player levels up. All rewards can be set in the config file for quick modifications.
+
+[LIST]
+[*]    Announces player level up to world
+[*]    Awards the player for gaining new levels
+[*]    The player forfeits the rewards if their bags are full
+[/LIST]
+
+
+[B]Download link:[/B]
+
+[B][url]https://stygianthebest.github.io/projects/mod-congratsonlevel/[/url][/B]
+[B][url]https://github.com/StygianTheBest/AzerothCore-Content/tree/master/Modules/mod-congratsonlevel[/url][/B]
+
+
+[B]How to install?[/B]
+
+This module only works for AzerothCore.
+Check the module page for the explanation, but it's very easy to do and works the same for all the modules.
+
+
+[B]Credits[/B]
+
+This module was made by Styx/StygianTheBest.
+I share this module with you because we support each other in the AzerothCore community.
+
+
+[B]How to thank us?[/B]
+
+The answer is simple: contribute! You can help by making new modules, fixing or improving other modules, converting fixes from TC to AzerothCore, fixing our own [URL="https://github.com/azerothcore/azerothcore-wotlk/issues"]issues[/URL], spreading the word (by talking about it, making tutorials or releasing stuff), donating, testing our pull requests or identifying issues etc...
+Contributors will receive better support and tips.
+
+-------------------------------------------------
+
+[B]What is AzerothCore?[/B]
+
+[URL="http://www.ac-web.org/forums/showthread.php?227677-AzerothCore-Best-3-3-5a-core-especially-for-custom-servers"][U][B]Click here[/B][/U][/URL] for an (incomplete) overview of AzerothCore's advantages. And have a look at the wiki.
+
+
+[B]Join us![/B]
+
+Join our discord and post on our forum!
+
+[URL][B][U]https://discord.gg/PaqQRkd[/U][/B][/URL] - The main place to talk, come !
+[U][B][URL]https://github.com/azerothcore/azerothcore-wotlk[/URL][/B][/U]
+[URL][U][B]http://azerothcore.org/[/B][/U][/URL]

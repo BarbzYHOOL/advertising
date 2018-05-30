@@ -1,0 +1,36 @@
+[B]Description:[/B]
+
+This module rewards players for the time they have spent logged into their character. It does a check if the player is AFK to prevent abuse. Items can be added via the database.
+
+
+[B]Download link:[/B]
+
+[B][url]https://github.com/azerothcore/mod-reward-system[/url][/B]
+
+
+[B]How to install?[/B]
+
+This module only works for AzerothCore.
+Check the module page for the explanation, but it's very easy to do and works the same for all the modules.
+
+
+[B]Credits[/B]
+
+This module was made by Talamortis, one of the most involved member and contributor of the AzerothCore project.
+I share this module with you because we support each other in the AzerothCore community.
+
+
+[B]How to thank us?[/B]
+
+The answer is simple: contribute! You can help by making new modules, fixing or improving other modules, converting fixes from TC to AzerothCore, fixing our own [URL="https://github.com/azerothcore/azerothcore-wotlk/issues"]issues[/URL], spreading the word (by talking about it, making tutorials or releasing stuff), donating, testing our pull requests or identifying issues etc...
+Contributors will receive better support and tips.
+
+-------------------------------------------------
+
+[B]Join us![/B]
+
+Join our discord and post on our forum!
+
+[URL][B][U]https://discord.gg/PaqQRkd[/U][/B][/URL] - The main place to talk, come !
+[U][B][URL]https://github.com/azerothcore/azerothcore-wotlk[/URL][/B][/U]
+[URL][U][B]http://azerothcore.org/[/B][/U][/URL]
